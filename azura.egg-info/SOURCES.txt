@@ -1,0 +1,8 @@
+setup.py
+azura/__init__.py
+azura/azura.py
+azura.egg-info/PKG-INFO
+azura.egg-info/SOURCES.txt
+azura.egg-info/dependency_links.txt
+azura.egg-info/requires.txt
+azura.egg-info/top_level.txt
