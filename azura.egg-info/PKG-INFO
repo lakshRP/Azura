@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: azura
-Version: 0.1.0
-Summary: Azura is an extreme add-on to the build in math library. Azura focuses on geometry and geometric calculations. Made by Laksh Patel, usable for free but cannot be distributed as your own.
-Home-page: UNKNOWN
+Version: 0.1.1
+Summary: Azura is an add-on to the math library. It contains many functions and 2 sub-libraries (percents and geography). In the sub-library, you can calculate percent proportions. In the sub-library you can use the Haversine function with distancetype conversions. In the built-in functions you can use geometric functions and also you can refer to pi, e, tau. In the built-in library some functions will have a perimeter, simplification. You can put 's' for pi to be converted to 3.14. Otherwise, if you want the normal pi, simply put any other string. Made by Laksh Patel, cannot be distributed as your own.
+Home-page: 
 Author: Laksh Patel
 Author-email: laksh2008patel@gmail.com
 License: MIT
@@ -18,5 +18,5 @@ Classifier: Programming Language :: Python :: 3.9
 Classifier: Operating System :: OS Independent
 Description-Content-Type: text/markdown
 
-Azura is an extreme add-on to the build in math library. Azura focuses on geometry and geometric calculations. Made by Laksh Patel, usable for free but cannot be distributed as your own.
+UNKNOWN
 

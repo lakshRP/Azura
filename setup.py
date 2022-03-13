@@ -9,14 +9,14 @@ from os import path
 HERE = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
-with open(path.join(HERE, 'venv/README.md'), encoding='utf-8') as f:
+with open(path.join(HERE, 'azura/README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 # This call to setup() does all the work
 setup(
     name="azura",
     version="0.1.1",
-    description="Azura is an add-on to the math library. It contains many functions and 2 sub-libraries (percents and geography). In the sub-library, you can calculate percent proportions. In the sub-library you can use the Haversine function with distancetype conversions. In the built-in functions you can use geometric functions and also you can refer to pi, e, tau. In the built-in library some functions will have a perimeter, simplification. You can put 's' for pi to be converted to 3.14. Otherwise, if you want the normal pi, simply put any other string. Made by Laksh Patel, cannot be distributed as your own.",
+    description="Azura is an add-on to the math library. Made by Laksh Patel, cannot be distributed as your own.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="",

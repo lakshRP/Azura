@@ -1,6 +1,7 @@
 setup.py
 azura/__init__.py
-azura/azura.py
+azura/geography.py
+azura/percents.py
 azura.egg-info/PKG-INFO
 azura.egg-info/SOURCES.txt
 azura.egg-info/dependency_links.txt
