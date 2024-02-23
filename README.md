@@ -6,3 +6,12 @@
 `pip install azura`
 
 ## Documentation
+Math definitons use a simplification parameter. If the parameter is filled with "s" then the definition will be simplified to the hundreths. For example π = 3.14 if simplification is "s". If simplification is left as anything else it will be the full form (EX: π = 3.14159...)
+
+`print(Azura.Math_Pi("s"))
+ prints "3.14"`
+
+ `print(Azura.Math_E("t"))
+ prints "2.718281828459045..."`
+
+ For more specific questions email me: **laksh2008patel@gmail.com**
